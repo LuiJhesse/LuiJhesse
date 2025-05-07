@@ -1,4 +1,4 @@
-## Olá, meu nome é {Jhesse}!
+## Olá, meu nome é Jhesse!
 
 ### ⚙️ GitHub Analytics
 
