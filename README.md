@@ -1,4 +1,11 @@
-## Olá, meu nome é Jhesse!
+## 👋 Olá! Me chamo **Jhesse**
+
+Sou desenvolvedora Full Stack em formação.
+---
+
+💻 **Linguagens:**  
+Java | JavaScript 
+
 
 ### ⚙️ GitHub Analytics
 
